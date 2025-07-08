@@ -4,7 +4,7 @@
 	 - then stop the upgrade process and do not continue with the next step.
 -->
   <PropertyGroup>
-    <TargetFramework>net5.0</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
   </PropertyGroup>
 
 <!-- Download a png from the internet and add a reference to it here -->
