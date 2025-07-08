@@ -1,9 +1,7 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-
-namespace NET6WebApp
+﻿namespace TestProject1
 {
     [TestClass]
-    public class UnitTest
+    public sealed class Test1
     {
         [TestMethod]
         public void TestMethod1()
